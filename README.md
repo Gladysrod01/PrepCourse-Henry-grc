@@ -1,2 +1,2 @@
-# PrepCourse-Henry-grc
-Repositorio de prueba del modulo 2 de Henry grc
+Gladys Rodríguez Castillo   
+Proyecto sobre como crear un repositorio y clonarlo desde github a mi computadora
